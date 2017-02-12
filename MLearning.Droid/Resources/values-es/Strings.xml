@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+	<string name="Hello">Hola mundo!</string>
+    <string name="openDrawer">openDrawer</string>
+    <string name="closeDrawer">closeDrawer</string>
+
+    <string name="THE_ROUTES">LAS RUTAS</string>
+    <string name="TOURIST_SERVICE_GUIDE">GUIA DE SERVICIOS</string>
+    <string name="WILDLIFE_IDENTIFICATION_GUIDE">GUIA DE IDENTIFICACION SILVESTRE</string>
+    <string name="INCA_TRIAL_IN_NUMBERS">CAMINO INCA EN CIFRAS</string>
+
+    <string name="theroutes">Las rutas</string>
+    <string name="touristserviceguide">Guía de Servicios</string>
+    <string name="wildlifeidentificationguide">Guía de Identificación de Vida Silvestre</string>
+    <string name="incatrialinnumber">Las Cifras</string>
+
+    <string name="Navigation_Home">Inicio</string>
+    <string name="Navigation_Routes">Rutas</string>
+    <string name="Navigation_Touristserviceguide">Guía de servicios</string>
+    <string name="Navigation_Wildlifeidentificationguide">Guía de identificación de vida silvestre</string>
+    <string name="Navigation_Incatrialinnumber">Camino inca en cifras</string>
+
+    <string name="Exit">Salir</string>
+    <string name="Photos">Fotos</string>
+    <string name="See_maps_and_photos">* Ver Mapa y Fotos</string>
+
+    <string name="LOGIN_USER">aocsa</string>
+</resources>

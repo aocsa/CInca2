@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{328AE02E-C12E-4720-BDB6-37891AAB4CE8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MLearning.Core/Repositories/WAMSRepositoryService.cs">
+    <Files>
+      <File FileName="MLearning.Droid/app.config" Line="1" Column="1" />
+      <File FileName="MLearning.Core/Repositories/WAMSRepositoryService.cs" Line="464" Column="4" />
+      <File FileName="MLearning.Droid/Views/LoginView.cs" Line="117" Column="4" />
+      <File FileName="MLearning.Core/Services/MLearningAzureService.cs" Line="46" Column="63" />
+      <File FileName="MLearning.Core/Services/IMLearningService.cs" Line="1" Column="1" />
+      <File FileName="MLearning.Core/Repositories/IRepositoryService.cs" Line="24" Column="129" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CInca PreferredExecutionTarget="Android.HT6ARBZ00107" />
+  <MultiItemStartupConfigurations />
+</Properties>
