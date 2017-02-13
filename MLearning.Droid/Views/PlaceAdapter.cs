@@ -7,7 +7,7 @@ using Android.Content;
 using Android.Graphics.Drawables;
 using Square.Picasso;
 
-namespace MLearning.Droid.Views
+namespace CincaMLearning.Droid.Views
 {
 	public class PlaceAdapter: BaseAdapter<PlaceItem>
 	{

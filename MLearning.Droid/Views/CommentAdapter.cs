@@ -6,7 +6,7 @@ using Android.Graphics;
 using Android.Content;
 using Square.Picasso;
 
-namespace MLearning.Droid
+namespace CincaMLearning.Droid
 {
 	public class CommentAdapter:BaseAdapter<CommentDataRow>
 	{

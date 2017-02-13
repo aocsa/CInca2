@@ -14,7 +14,7 @@ using Android.Widget;
 using Android.Graphics;
 using Android.Graphics.Drawables;
 
-namespace MLearning.Droid
+namespace CincaMLearning.Droid
 {
 	public class NotificationView : RelativeLayout
 	{

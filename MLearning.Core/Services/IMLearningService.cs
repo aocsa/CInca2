@@ -1,6 +1,6 @@
 ﻿using Core.Entities.json;
 
-using MLearning.Core.Entities;
+using CincaMLearning.Core.Entities;
 using MLearningDB;
 using System;
 using System.Collections.Generic;
@@ -8,13 +8,13 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
-using MLearning.Core.Configuration;
+using CincaMLearning.Core.Configuration;
 using System.IO;
 using Core.Repositories;
 using Microsoft.WindowsAzure.MobileServices;
 using Newtonsoft.Json.Linq;
 
-namespace MLearning.Core.Services
+namespace CincaMLearning.Core.Services
 {
 
     //TODO: When creating LO, should update UserLO table 

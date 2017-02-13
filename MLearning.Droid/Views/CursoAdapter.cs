@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using Android.App;
 using Android.Graphics;
 
-namespace MLearning.Droid.Views
+namespace CincaMLearning.Droid.Views
 {
 	public class CursoAdapter : BaseAdapter<CursoItem>
 	{

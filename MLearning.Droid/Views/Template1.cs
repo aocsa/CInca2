@@ -16,7 +16,7 @@ using Android.Text;
 using Square.Picasso;
 using Android.Text.Util;
 
-namespace MLearning.Droid
+namespace CincaMLearning.Droid
 {
 	public class Template1 : RelativeLayout
 	{

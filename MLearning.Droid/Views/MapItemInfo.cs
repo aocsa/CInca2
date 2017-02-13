@@ -15,7 +15,7 @@ using Android.Graphics;
 using Android.Text;
 using Square.Picasso;
 
-namespace MLearning.Droid
+namespace CincaMLearning.Droid
 {
 	public class MapItemInfo
 	{

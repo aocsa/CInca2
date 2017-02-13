@@ -14,7 +14,7 @@ using Android.Widget;
 using Android.Graphics;
 using Android.Text;
 using Square.Picasso;
-using MLearning.Droid.Views;
+using CincaMLearning.Droid.Views;
 using Android.Graphics.Drawables;
 using Koush;
 using Android.Views.Animations;
@@ -23,7 +23,7 @@ using Core.Session;
 using System.Threading;
 using Android.Text.Util;
 
-namespace MLearning.Droid
+namespace CincaMLearning.Droid
 {
 	public class MapView : RelativeLayout
 	{

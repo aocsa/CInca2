@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MLearning.Droid.Views
+namespace CincaMLearning.Droid.Views
 {
 	public class CursoItem
 	{

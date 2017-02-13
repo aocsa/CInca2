@@ -17,7 +17,7 @@ using Android.Support.V7.App;
 using Android.Support.V4.Widget;
 
 
-namespace MLearning.Droid
+namespace CincaMLearning.Droid
 {
 	public class MyActionBarDrawerToggle : SupportActionBarDrawerToggle
 	{

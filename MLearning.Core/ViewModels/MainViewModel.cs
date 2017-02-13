@@ -7,9 +7,9 @@ using Core.Repositories;
 using Core.Session;
 using Core.ViewModels;
 using Microsoft.WindowsAzure.MobileServices;
-using MLearning.Core.Configuration;
-using MLearning.Core.Entities;
-using MLearning.Core.Services;
+using CincaMLearning.Core.Configuration;
+using CincaMLearning.Core.Entities;
+using CincaMLearning.Core.Services;
 using MLearningDB;
 using Newtonsoft.Json;
 using Referee.Core.Session;
@@ -30,7 +30,7 @@ using System.ComponentModel;
 using System.Threading;
 using System.Diagnostics;
 
-namespace MLearning.Core.ViewModels
+namespace CincaMLearning.Core.ViewModels
 {
 	 
 	public partial class ObservableDictionary<TKey, TValue> : Dictionary<TKey, TValue>, INotifyCollectionChanged, INotifyPropertyChanged {
@@ -1287,7 +1287,7 @@ namespace MLearning.Core.ViewModels
              LearningOjectsList = CirclesLearningObjects[circleIndex] ;
 
 
-             await BlockDownload.TryPutBytesInVector<MLearning.Core.ViewModels.MainViewModel.lo_by_circle_wrapper>(LearningOjectsList.ToList(),
+             await BlockDownload.TryPutBytesInVector<CincaMLearning.Core.ViewModels.MainViewModel.lo_by_circle_wrapper>(LearningOjectsList.ToList(),
                    (pos, bytes) => { if (pos < LearningOjectsList.Count) LearningOjectsList[pos].background_bytes = bytes; },
                    (lo) => { return lo.lo.url_background; }
                   );

@@ -4,9 +4,9 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
-using MLearning.Core.File;
+using CincaMLearning.Core.File;
 
-namespace MLearning.Droid.AsyncStorage
+namespace CincaMLearning.Droid.AsyncStorage
 {
     class DroidAsyncStorageService : IAsyncStorageService
     {

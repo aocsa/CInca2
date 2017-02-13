@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MLearning.Core.File
+namespace CincaMLearning.Core.File
 {
     public interface IAsyncStorageService
     {

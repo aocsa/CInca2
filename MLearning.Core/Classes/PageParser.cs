@@ -1,14 +1,14 @@
 ﻿using Core.DownloadCache;
 using Core.Session;
-using MLearning.Core.Configuration;
-using MLearning.Core.Entities.json;
+using CincaMLearning.Core.Configuration;
+using CincaMLearning.Core.Entities.json;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MLearning.Core.Classes
+namespace CincaMLearning.Core.Classes
 {
     public class PageParser
     {

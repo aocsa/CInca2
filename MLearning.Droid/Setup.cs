@@ -3,11 +3,11 @@ using Cirrious.CrossCore;
 using Cirrious.CrossCore.Platform;
 using Cirrious.MvvmCross.Droid.Platform;
 using Cirrious.MvvmCross.ViewModels;
-using MLearning.Core.File;
-using MLearning.Droid.AsyncStorage;
-using MLearning.Core;
+using CincaMLearning.Core.File;
+using CincaMLearning.Droid.AsyncStorage;
+using CincaMLearning.Core;
 
-namespace MLearning.Droid
+namespace CincaMLearning.Droid
 {
     public class Setup : MvxAndroidSetup
     {
@@ -23,7 +23,7 @@ namespace MLearning.Droid
         {
 			Mvx.RegisterSingleton<IUserInfo>(new UserInfo(this.ApplicationContext));
 
-            return new Core.App();
+            return new CincaMLearning.Core.App();
         }
 		
         protected override IMvxTrace CreateDebugTrace()

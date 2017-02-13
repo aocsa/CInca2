@@ -13,7 +13,7 @@ using Android.Views;
 using Android.Widget;
 using Android.Support.V4.View;
 
-namespace MLearning.Droid
+namespace CincaMLearning.Droid
 {
 	public class LOViewAdapter : PagerAdapter
 	{

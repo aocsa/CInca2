@@ -16,7 +16,7 @@ using Android.Graphics.Drawables;
 using Square.Picasso;
 using Android.Widget;
 
-namespace MLearning.Droid
+namespace CincaMLearning.Droid
 {
 	public class FrontContainerViewPager : RelativeLayout
 	{

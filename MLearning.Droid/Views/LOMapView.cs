@@ -5,7 +5,7 @@ using Cirrious.MvvmCross.Droid.Views;
 using Core.Repositories;
 using Gcm.Client;
 using Microsoft.WindowsAzure.MobileServices;
-using MLearning.Core.ViewModels;
+using CincaMLearning.Core.ViewModels;
 using System;
 using System.ComponentModel;
 using System.Threading.Tasks;
@@ -22,7 +22,7 @@ using System.Threading;
 using Android.Graphics.Drawables;
 using System.Text.RegularExpressions;
 
-namespace MLearning.Droid.Views
+namespace CincaMLearning.Droid.Views
 {
 	[Activity(Label = "View for LOMapViewModel", ScreenOrientation = ScreenOrientation.Portrait)]
 	public class LOMapView : MvxActivity, VerticalScrollViewPager.ScrollViewListenerPager

@@ -6,7 +6,7 @@ using Android.Graphics;
 using Square.Picasso;
 
 
-namespace MLearning.Droid
+namespace CincaMLearning.Droid
 {
 	public class ImageAdapter:BaseAdapter<ImageGallery>
 	{

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MLearning.Core.Entities.json
+namespace CincaMLearning.Core.Entities.json
 {
     public class Loitem : MvxNotifyPropertyChanged
     {

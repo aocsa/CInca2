@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MLearning.Droid
+namespace CincaMLearning.Droid
 {
 	public class NotificationDataRow
 	{

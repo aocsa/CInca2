@@ -15,9 +15,9 @@ using Android.Graphics.Drawables;
 using Android.Graphics;
 using Android.Text;
 using Cirrious.MvvmCross.Binding.BindingContext;
-using MLearning.Core;
+using CincaMLearning.Core;
 
-namespace MLearning.Droid
+namespace CincaMLearning.Droid
 {
 	[Activity(Label = "View for FirstViewModel")]	
 	public class RegisterView : MvxActivity

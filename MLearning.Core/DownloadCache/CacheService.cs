@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Reflection;
 using System.Diagnostics;
-using MLearning.Core.File;
+using CincaMLearning.Core.File;
 
 namespace Core.DownloadCache
 {

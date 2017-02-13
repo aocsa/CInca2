@@ -2,14 +2,14 @@
 using Core.Session;
 using Core.ViewModels;
 using Microsoft.WindowsAzure.MobileServices;
-using MLearning.Core.Services;
+using CincaMLearning.Core.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MLearning.Core.ViewModels
+namespace CincaMLearning.Core.ViewModels
 {
     public class AuthViewModel  : MvxViewModel
     {

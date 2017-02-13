@@ -8,8 +8,8 @@ using Core.Security;
 using Core.Session;
 using Microsoft.WindowsAzure.MobileServices;
 
-using MLearning.Core.Services;
-using MLearning.Core.ViewModels;
+using CincaMLearning.Core.Services;
+using CincaMLearning.Core.ViewModels;
 using MLearningDBResult;
 using Referee.Core.Session;
 using System;
@@ -18,7 +18,7 @@ using System.Linq;
 using System.Net;
 using System.Text;
 using System.Threading.Tasks;
-using MLearning.Core.Configuration;
+using CincaMLearning.Core.Configuration;
 using Cirrious.MvvmCross.Plugins.PictureChooser;
 using System.IO;
 using AzureBlobUploader;
@@ -26,7 +26,7 @@ using Microsoft.WindowsAzure.Storage;
 using System.Net.Http;
 
 //using FizzWare.NBuilder;
-using MLearning.Core;
+using CincaMLearning.Core;
 //using MLearningDB;
 
 

@@ -3,7 +3,7 @@ using Cirrious.MvvmCross.ViewModels;
 using Cirrious.MvvmCross.Plugins.PictureChooser;
 using System.IO;
 
-namespace MLearning.Core
+namespace CincaMLearning.Core
 {
 	public class CameraViewModel: MvxViewModel
 	{

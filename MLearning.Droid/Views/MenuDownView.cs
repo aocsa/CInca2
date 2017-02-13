@@ -13,7 +13,7 @@ using Android.Views;
 using Android.Widget;
 using Android.Graphics;
 
-namespace MLearning.Droid
+namespace CincaMLearning.Droid
 {
 	public class MenuDownView : LinearLayout
 	{

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MLearning.Core
+namespace CincaMLearning.Core
 {
 	public interface IUserInfo
 	{

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace MLearning.Droid
+namespace CincaMLearning.Droid
 {
 	public class AddResources
 	{

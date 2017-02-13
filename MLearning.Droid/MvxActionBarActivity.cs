@@ -4,7 +4,7 @@ using Cirrious.MvvmCross.ViewModels;
 using Android.Content;
 using Cirrious.MvvmCross.Binding.BindingContext;
 
-namespace MLearning.Droid
+namespace CincaMLearning.Droid
 {
 	
 	public class MvxActionBarActivity

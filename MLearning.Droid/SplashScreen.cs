@@ -7,7 +7,7 @@ using System;
 
 
 
-namespace MLearning.Droid
+namespace CincaMLearning.Droid
 {
     [Activity(
 		Label = "Camino Inca"

@@ -8,13 +8,13 @@ using Android.Graphics;
 
 using Android.Graphics.Drawables;
 using Square.Picasso;
-using MLearning.Droid.Views;
-using MLearning.Core.ViewModels;
+using CincaMLearning.Droid.Views;
+using CincaMLearning.Core.ViewModels;
 using Android.Text;
 using Android.Text.Util;
 using Android.Views;
 
-namespace MLearning.Droid
+namespace CincaMLearning.Droid
 {
 	public class WallView: RelativeLayout
 	{

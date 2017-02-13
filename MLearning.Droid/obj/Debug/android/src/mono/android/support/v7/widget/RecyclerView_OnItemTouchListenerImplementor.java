@@ -12,7 +12,6 @@ public class RecyclerView_OnItemTouchListenerImplementor
 	static {
 		__md_methods = 
 			"n_onInterceptTouchEvent:(Landroid/support/v7/widget/RecyclerView;Landroid/view/MotionEvent;)Z:GetOnInterceptTouchEvent_Landroid_support_v7_widget_RecyclerView_Landroid_view_MotionEvent_Handler:Android.Support.V7.Widget.RecyclerView/IOnItemTouchListenerInvoker, Xamarin.Android.Support.v7.RecyclerView\n" +
-			"n_onRequestDisallowInterceptTouchEvent:(Z)V:GetOnRequestDisallowInterceptTouchEvent_ZHandler:Android.Support.V7.Widget.RecyclerView/IOnItemTouchListenerInvoker, Xamarin.Android.Support.v7.RecyclerView\n" +
 			"n_onTouchEvent:(Landroid/support/v7/widget/RecyclerView;Landroid/view/MotionEvent;)V:GetOnTouchEvent_Landroid_support_v7_widget_RecyclerView_Landroid_view_MotionEvent_Handler:Android.Support.V7.Widget.RecyclerView/IOnItemTouchListenerInvoker, Xamarin.Android.Support.v7.RecyclerView\n" +
 			"";
 		mono.android.Runtime.register ("Android.Support.V7.Widget.RecyclerView+IOnItemTouchListenerImplementor, Xamarin.Android.Support.v7.RecyclerView, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", RecyclerView_OnItemTouchListenerImplementor.class, __md_methods);
@@ -33,14 +32,6 @@ public class RecyclerView_OnItemTouchListenerImplementor
 	}
 
 	private native boolean n_onInterceptTouchEvent (android.support.v7.widget.RecyclerView p0, android.view.MotionEvent p1);
-
-
-	public void onRequestDisallowInterceptTouchEvent (boolean p0)
-	{
-		n_onRequestDisallowInterceptTouchEvent (p0);
-	}
-
-	private native void n_onRequestDisallowInterceptTouchEvent (boolean p0);
 
 
 	public void onTouchEvent (android.support.v7.widget.RecyclerView p0, android.view.MotionEvent p1)

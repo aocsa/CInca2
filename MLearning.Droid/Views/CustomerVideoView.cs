@@ -15,7 +15,7 @@ using Android.Graphics;
 using Android.Graphics.Drawables;
 using Android.Text.Util;
 
-namespace MLearning.Droid
+namespace CincaMLearning.Droid
 {
 	public class CustomerVideoView : RelativeLayout
 	{

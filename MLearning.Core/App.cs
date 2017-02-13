@@ -4,9 +4,9 @@ using Core.Repositories;
 using Core.Session;
 using Core.ViewModels;
 using KunFood.Core.ViewModels;
-using MLearning.Core.ViewModels;
+using CincaMLearning.Core.ViewModels;
 
-namespace MLearning.Core
+namespace CincaMLearning.Core
 {
     public class App : Cirrious.MvvmCross.ViewModels.MvxApplication
     {

@@ -13,11 +13,11 @@ using Android.Views;
 using Android.Widget;
 using Android.Graphics;
 using Android.Graphics.Drawables;
-using MLearning.Core.ViewModels;
+using CincaMLearning.Core.ViewModels;
 using Square.Picasso;
 using Android.Text;
 
-namespace MLearning.Droid
+namespace CincaMLearning.Droid
 {
 	public class LOContainerView : RelativeLayout
 	{

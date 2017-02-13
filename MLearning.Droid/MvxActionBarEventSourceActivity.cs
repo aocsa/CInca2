@@ -7,7 +7,7 @@ using Android.OS;
 using Android.App;
 
 
-namespace MLearning.Droid
+namespace CincaMLearning.Droid
 {
 
 	public abstract class MvxActionBarEventSourceActivity

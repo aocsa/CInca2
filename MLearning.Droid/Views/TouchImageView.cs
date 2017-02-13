@@ -25,7 +25,7 @@ using Android.Views;
 using Android.Widget;
 using Android.OS;
 
-namespace MLearning.Droid
+namespace CincaMLearning.Droid
 {
 
 	public class ScaleImageViewGestureDetector : GestureDetector.SimpleOnGestureListener

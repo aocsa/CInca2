@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MLearning.Core.Entities
+namespace CincaMLearning.Core.Entities
 {
     using System;
     using System.Collections.Generic;

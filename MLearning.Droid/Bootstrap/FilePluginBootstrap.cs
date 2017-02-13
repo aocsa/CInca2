@@ -1,6 +1,6 @@
 using Cirrious.CrossCore.Plugins;
 
-namespace MLearning.Droid.Bootstrap
+namespace CincaMLearning.Droid.Bootstrap
 {
     public class FilePluginBootstrap
         : MvxPluginBootstrapAction<Cirrious.MvvmCross.Plugins.File.PluginLoader>

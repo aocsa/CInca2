@@ -6,7 +6,7 @@ using ByteSmith.WindowsAzure.Messaging;
 using Cirrious.CrossCore;
 using Core.Push;
 using Gcm.Client;
-using MLearning.Droid.Views;
+using CincaMLearning.Droid.Views;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -30,7 +30,7 @@ namespace KunFoodMozo.Droid.Push
     [IntentFilter(new string[] { Gcm.Client.Constants.INTENT_FROM_GCM_LIBRARY_RETRY }, Categories = new string[] { "@PACKAGE_NAME@" })]
     public class MyBroadcastReceiver : GcmBroadcastReceiverBase<GcmService>
     {
-        public static string[] SENDER_IDS = new string[] { MLearning.Core.Configuration.Constants.SenderID };
+        public static string[] SENDER_IDS = new string[] { CincaMLearning.Core.Configuration.Constants.SenderID };
 
         public const string TAG = "MyBroadcastReceiver-GCM";
     }
@@ -42,7 +42,7 @@ namespace KunFoodMozo.Droid.Push
         private NotificationHub Hub { get; set; }
 
         public GcmService()
-            : base(MLearning.Core.Configuration.Constants.SenderID)
+            : base(CincaMLearning.Core.Configuration.Constants.SenderID)
         {
             Log.Info(MyBroadcastReceiver.TAG, "GcmService() constructor");
         }
@@ -93,7 +93,7 @@ namespace KunFoodMozo.Droid.Push
 
             // createNotification("GcmService-GCM Registered...", "The device has been Registered, Tap to View!");
 
-            Hub = new NotificationHub(MLearning.Core.Configuration.Constants.NotificationHubPath, MLearning.Core.Configuration.Constants.ConnectionString);
+            Hub = new NotificationHub(CincaMLearning.Core.Configuration.Constants.NotificationHubPath, CincaMLearning.Core.Configuration.Constants.ConnectionString);
             try
             {
                 await Hub.UnregisterAllAsync(registrationId);
@@ -120,7 +120,7 @@ namespace KunFoodMozo.Droid.Push
 
         protected async override void OnUnRegistered(Context context, string registrationId)
         {
-            Hub = new NotificationHub(MLearning.Core.Configuration.Constants.NotificationHubPath, MLearning.Core.Configuration.Constants.ConnectionString);
+            Hub = new NotificationHub(CincaMLearning.Core.Configuration.Constants.NotificationHubPath, CincaMLearning.Core.Configuration.Constants.ConnectionString);
             try
             {
                 await Hub.UnregisterAllAsync(registrationId);

@@ -16,7 +16,7 @@ using Android.Graphics;
 using Android.Graphics.Drawables;
 using Square.Picasso;
 
-namespace MLearning.Droid
+namespace CincaMLearning.Droid
 {
 	public class TaskView : RelativeLayout
 	{

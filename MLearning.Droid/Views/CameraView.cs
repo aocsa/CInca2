@@ -13,10 +13,10 @@ using Android.Widget;
 using Cirrious.MvvmCross.Droid.Views;
 using Android.Graphics;
 using Android.Graphics.Drawables;
-using MLearning.Core;
+using CincaMLearning.Core;
 using Core.ViewModels;
 
-namespace MLearning.Droid
+namespace CincaMLearning.Droid
 {
 	[Activity(Label = "View for CameraViewModel")]		
 	public class CameraView : MvxActivity

@@ -1,6 +1,6 @@
 ﻿using Cirrious.MvvmCross.ViewModels;
 using Core.Session;
-using MLearning.Core.Services;
+using CincaMLearning.Core.Services;
 using MLearningDB;
 using System;
 using System.Collections.Generic;
@@ -9,7 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MLearning.Core.ViewModels
+namespace CincaMLearning.Core.ViewModels
 {
 
     //Register the current Consumer to a Circle -- Testing Purposes

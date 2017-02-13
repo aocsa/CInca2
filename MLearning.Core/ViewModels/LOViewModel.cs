@@ -2,11 +2,11 @@
 using Cirrious.MvvmCross.ViewModels;
 using Core.DownloadCache;
 using Core.Session;
-using MLearning.Core.Classes;
-using MLearning.Core.Configuration;
-using MLearning.Core.Entities;
-using MLearning.Core.Entities.json;
-using MLearning.Core.Services;
+using CincaMLearning.Core.Classes;
+using CincaMLearning.Core.Configuration;
+using CincaMLearning.Core.Entities;
+using CincaMLearning.Core.Entities.json;
+using CincaMLearning.Core.Services;
 using MLearningDB;
 using Newtonsoft.Json;
 using System;
@@ -16,7 +16,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MLearning.Core.ViewModels
+namespace CincaMLearning.Core.ViewModels
 {
 	public class LOViewModel : MvxViewModel
 	{

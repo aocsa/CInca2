@@ -5,8 +5,8 @@ using Core.Session;
 using Core.ViewModels;
 using Microsoft.WindowsAzure.MobileServices;
 
-using MLearning.Core.Services;
-using MLearning.Core.ViewModels;
+using CincaMLearning.Core.Services;
+using CincaMLearning.Core.ViewModels;
 using MLearningDB;
 using Sha2;
 using System;
@@ -15,7 +15,7 @@ using System.Linq;
 using System.Net;
 using System.Text;
 using System.Threading.Tasks;
-using MLearning.Core.Configuration;
+using CincaMLearning.Core.Configuration;
 
 
 namespace KunFood.Core.ViewModels

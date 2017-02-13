@@ -2,7 +2,7 @@ using Android.App;
 using Android.OS;
 using Cirrious.MvvmCross.Droid.Views;
 
-namespace MLearning.Droid.Views
+namespace CincaMLearning.Droid.Views
 {
     [Activity(Label = "View for PublisherMainView")]
     public class PublisherMainView : MvxActivity

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MLearning.Core.Configuration
+namespace CincaMLearning.Core.Configuration
 {
     //UserType Constants also defined in Server Backend
     public enum UserType{Publisher,Consumer,SuperAdmin,Head};

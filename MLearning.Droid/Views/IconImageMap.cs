@@ -2,7 +2,7 @@
 using Android.Widget;
 using Android.Content;
 
-namespace MLearning.Droid
+namespace CincaMLearning.Droid
 {
 	public class IconImageMap:ImageView
 	{

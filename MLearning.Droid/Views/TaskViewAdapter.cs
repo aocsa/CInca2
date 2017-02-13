@@ -4,7 +4,7 @@ using Android.App;
 using System.Collections.Generic;
 using Android.Graphics;
 using Android.Content;
-using MLearning.Droid;
+using CincaMLearning.Droid;
 
 
 namespace TaskView

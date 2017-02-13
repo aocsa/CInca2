@@ -19,7 +19,7 @@ using System.Threading.Tasks;
 using System.Net.Http;
 using Android.Text.Util;
 
-namespace MLearning.Droid
+namespace CincaMLearning.Droid
 {
 	public class CustomerImageView : RelativeLayout
 	{

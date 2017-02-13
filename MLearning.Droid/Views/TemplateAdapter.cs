@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using Android.Graphics;
 using Android.Content;
 
-namespace MLearning.Droid
+namespace CincaMLearning.Droid
 {
 	public class TemplateAdapter:BaseAdapter<TemplateItem>
 	{

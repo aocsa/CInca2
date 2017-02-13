@@ -10,7 +10,7 @@ using System.Net;
 
 using Cirrious.CrossCore;
 using Core.Session;
-using MLearning.Core.Configuration;
+using CincaMLearning.Core.Configuration;
 
 
 

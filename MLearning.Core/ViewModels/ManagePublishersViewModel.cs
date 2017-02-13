@@ -1,9 +1,9 @@
 ﻿using Cirrious.MvvmCross.ViewModels;
 using Core.Entities.json;
 using Core.Security;
-using MLearning.Core.Configuration;
-using MLearning.Core.Entities;
-using MLearning.Core.Services;
+using CincaMLearning.Core.Configuration;
+using CincaMLearning.Core.Entities;
+using CincaMLearning.Core.Services;
 using MLearningDB;
 using System;
 using System.Collections.Generic;
@@ -12,7 +12,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MLearning.Core.ViewModels
+namespace CincaMLearning.Core.ViewModels
 {
     public class ManagePublishersViewModel : MvxViewModel
     {

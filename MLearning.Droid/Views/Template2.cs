@@ -19,7 +19,7 @@ using Android.Text;
 using Android.Widget;
 using Android.Text.Util;
 
-namespace MLearning.Droid
+namespace CincaMLearning.Droid
 {
 	public class Template2 : RelativeLayout
 	{

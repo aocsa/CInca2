@@ -6,7 +6,7 @@ using Android.Views;
 using Android.Content;
 using Android.Graphics.Drawables;
 
-namespace MLearning.Droid
+namespace CincaMLearning.Droid
 {
 	public class CommentListViewAdapter:BaseAdapter<CommentDataRow>
 	{

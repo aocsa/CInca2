@@ -5,7 +5,7 @@ using Android.Graphics;
 using System.Collections.Generic;
 using Android.Text.Util;
 
-namespace MLearning.Droid
+namespace CincaMLearning.Droid
 {
 	public class Template3: RelativeLayout
 	{

@@ -6,7 +6,7 @@ using Android.Graphics;
 using Android.Graphics.Drawables;
 using Android.Content;
 
-namespace MLearning.Droid.Views
+namespace CincaMLearning.Droid.Views
 {
 	public class UnidadAdapter : BaseAdapter<UnidadItem>
 	{

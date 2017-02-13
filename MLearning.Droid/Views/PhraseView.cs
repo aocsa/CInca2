@@ -14,7 +14,7 @@ using Android.Widget;
 using Android.Graphics;
 using Android.Text;
 
-namespace MLearning.Droid
+namespace CincaMLearning.Droid
 {
 	public class PhraseView : RelativeLayout
 	{

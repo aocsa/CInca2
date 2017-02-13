@@ -1,8 +1,8 @@
 ﻿using System;
-using MLearning.Core;
+using CincaMLearning.Core;
 using Android.Content.Res; 
 
-namespace MLearning.Droid
+namespace CincaMLearning.Droid
 {
 	public class UserInfo :  IUserInfo 
 	{

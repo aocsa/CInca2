@@ -3,7 +3,7 @@ using Android.OS;
 using Cirrious.MvvmCross.Droid.Views;
 using Gcm.Client;
 
-using MLearning.Core.ViewModels;
+using CincaMLearning.Core.ViewModels;
 using System.ComponentModel;
 using Android.Widget;
 using System.Collections.Generic;
@@ -28,13 +28,13 @@ using Android.Media;
 using Core.DownloadCache;
 using Core.Session;
 
-namespace MLearning.Droid.Views
+namespace CincaMLearning.Droid.Views
 {
 
 	[Activity(Label = "View for FirstViewModel", ScreenOrientation = ScreenOrientation.Portrait)]
 	public class MainView : MvxActionBarActivity, VerticalScrollViewPager.ScrollViewListenerPager
 	{
-		ObservableCollection<MLearning.Core.ViewModels.MainViewModel.lo_by_circle_wrapper> _CLO;
+		ObservableCollection<CincaMLearning.Core.ViewModels.MainViewModel.lo_by_circle_wrapper> _CLO;
 		//ObservableCollection<MLearning.Core.ViewModels.MainViewModel.page_collection_wrapper> s_list;
 		private SupportToolbar mToolbar;
 		private MyActionBarDrawerToggle mDrawerToggle;
@@ -1392,7 +1392,7 @@ namespace MLearning.Droid.Views
 
 			Console.WriteLine ("loading index for nitems  = " + vm.LearningOjectsList.Count);
 			Console.WriteLine(" position LO = "+ _currentUnidad);
-			MLearning.Core.ViewModels.MainViewModel.lo_by_circle_wrapper currentLearningObject;
+			CincaMLearning.Core.ViewModels.MainViewModel.lo_by_circle_wrapper currentLearningObject;
 
 			currentLearningObject = vm.LearningOjectsList [_currentUnidad];
 
@@ -1609,7 +1609,7 @@ namespace MLearning.Droid.Views
 			{
 				Console.WriteLine ("loadSection");
 
-				MLearning.Core.ViewModels.MainViewModel.lo_by_circle_wrapper currentLearningObject = vm.LearningOjectsList [_currentUnidad];
+				CincaMLearning.Core.ViewModels.MainViewModel.lo_by_circle_wrapper currentLearningObject = vm.LearningOjectsList [_currentUnidad];
 				int circleID = currentLearningObject.lo.Circle_id;
 
 				vm.OpenFirstSlidePageCommand.Execute (currentLearningObject);

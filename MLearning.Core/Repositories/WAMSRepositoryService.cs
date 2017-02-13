@@ -4,8 +4,8 @@ using Core.DownloadCache;
 using Core.Session;
 using Microsoft.WindowsAzure.MobileServices;
 
-using MLearning.Core.Entities;
-using MLearning.Core.Entities.json;
+using CincaMLearning.Core.Entities;
+using CincaMLearning.Core.Entities.json;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using System;
@@ -19,9 +19,9 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using Core.Classes;
-using MLearning.Core.Configuration;
+using CincaMLearning.Core.Configuration;
 using Cirrious.MvvmCross.Plugins.File;
-using MLearning.Core.Classes;
+using CincaMLearning.Core.Classes;
 using MLearningDB;
 using System.Diagnostics;
 

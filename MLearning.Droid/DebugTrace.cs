@@ -2,7 +2,7 @@ using System;
 using System.Diagnostics;
 using Cirrious.CrossCore.Platform;
 
-namespace MLearning.Droid
+namespace CincaMLearning.Droid
 {
     public class DebugTrace : IMvxTrace
     {

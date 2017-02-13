@@ -4,7 +4,7 @@ using Core.Entities.json;
 using Core.Repositories;
 using Core.Session;
 
-using MLearning.Core.Entities;
+using CincaMLearning.Core.Entities;
 using MLearningDB;
 using System;
 using System.Collections.Generic;
@@ -13,14 +13,14 @@ using System.Linq.Expressions;
 using System.Net;
 using System.Text;
 using System.Threading.Tasks;
-using MLearning.Core.Configuration;
+using CincaMLearning.Core.Configuration;
 using System.IO;
 using AzureBlobUploader;
 using Microsoft.WindowsAzure.Storage;
 using Microsoft.WindowsAzure.MobileServices;
 using Newtonsoft.Json.Linq;
 
-namespace MLearning.Core.Services
+namespace CincaMLearning.Core.Services
 {
     public class MLearningAzureService : IMLearningService
     {

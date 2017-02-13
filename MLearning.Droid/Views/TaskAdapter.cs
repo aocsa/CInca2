@@ -4,7 +4,7 @@ using Android.App;
 using System.Collections.Generic;
 using Android.Graphics;
 
-namespace MLearning.Droid.Views
+namespace CincaMLearning.Droid.Views
 {
 	public class TaskAdapter: BaseAdapter<TaskItem>
 	{

@@ -2,7 +2,7 @@
 using System.ComponentModel;
 using Android.Graphics;
 using System.Collections.ObjectModel;
-using MLearning.Droid;
+using CincaMLearning.Droid;
 using Android.Views;
 using Android.Content;
 using Android.Widget;

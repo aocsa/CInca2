@@ -19,7 +19,7 @@ using Java.IO;
 using System.IO;
 using Android.Content;
 
-namespace MLearning.Droid.Views
+namespace CincaMLearning.Droid.Views
 {
 	[Activity(Label = "View for FirstViewModel", ScreenOrientation = ScreenOrientation.Portrait)]
 	public class LoginView : MvxActivity

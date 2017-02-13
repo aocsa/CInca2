@@ -2,7 +2,7 @@
 using System.ComponentModel;
 using Android.Graphics;
 
-namespace MLearning.Droid
+namespace CincaMLearning.Droid
 {
 	public class LOItemSource : INotifyPropertyChanged
 	{

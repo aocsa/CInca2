@@ -5,7 +5,7 @@ using Android.Util;
 using Android.Text;
 using Android.Graphics;
 
-namespace MLearning.Droid
+namespace CincaMLearning.Droid
 {
 	public class JustifiedTextView : TextView
 	{
