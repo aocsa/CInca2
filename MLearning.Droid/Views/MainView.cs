@@ -927,7 +927,7 @@ namespace CincaMLearning.Droid.Views
 			}*/
 			else if(e.Position == 1)//rutas
 			{
-				if (_currentCurso == 0) {
+				if (_currentCurso == 1) {
 					mDrawerLayout.CloseDrawer (mLeftDrawer);
 				} else {
 					showRutas ();
@@ -1572,8 +1572,9 @@ namespace CincaMLearning.Droid.Views
 				player = new Android.Media.MediaPlayer();
 			} else {
 				player.Reset();
-				String url = Html.FromHtml (filePath).ToString();
-				var bytesAndPath = await cache.tryGetResource(url);		
+                String url = "http://174.138.48.60/cinca/efectos.mp3";// Html.FromHtml (filePath).ToString();
+
+                var bytesAndPath = await cache.tryGetResource(url);		
 				_dialogDownload.Dismiss ();		
 						
 				playMp3 (bytesAndPath.Item1);

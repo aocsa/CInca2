@@ -2,18 +2,18 @@
 <Sdk>
   <AndroidApiLevel>18</AndroidApiLevel>
   <AndroidApiLevelName>18</AndroidApiLevelName>
-  <AndroidNdkPath>C:\Program Files\Android\ndk\android-ndk-r12-beta1</AndroidNdkPath>
-  <AndroidSdkBuildToolsPath>C:\Users\Citec\AppData\Local\Android\sdk\build-tools\24.0.3</AndroidSdkBuildToolsPath>
-  <AndroidSdkBuildToolsBinPath>C:\Users\Citec\AppData\Local\Android\sdk\build-tools\24.0.3</AndroidSdkBuildToolsBinPath>
-  <AndroidSdkPath>C:\Users\Citec\AppData\Local\Android\sdk</AndroidSdkPath>
-  <JavaSdkPath>C:\Program Files\Java\jdk1.8.0_121</JavaSdkPath>
-  <MonoAndroidBinPath>C:\Program Files (x86)\MSBuild\Xamarin\Android</MonoAndroidBinPath>
-  <MonoAndroidToolsPath>C:\Program Files (x86)\MSBuild\Xamarin\Android</MonoAndroidToolsPath>
+  <AndroidNdkPath>C:\ProgramData\Microsoft\AndroidNDK64\android-ndk-r13b</AndroidNdkPath>
+  <AndroidSdkBuildToolsPath>C:\Users\Citec\AppData\Local\Android\Sdk\build-tools\27.0.1</AndroidSdkBuildToolsPath>
+  <AndroidSdkBuildToolsBinPath>C:\Users\Citec\AppData\Local\Android\Sdk\build-tools\27.0.1</AndroidSdkBuildToolsBinPath>
+  <AndroidSdkPath>C:\Users\Citec\AppData\Local\Android\Sdk</AndroidSdkPath>
+  <JavaSdkPath>C:\Program Files\Java\jdk1.8.0_101</JavaSdkPath>
+  <MonoAndroidBinPath>C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Xamarin\Android</MonoAndroidBinPath>
+  <MonoAndroidToolsPath>C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Xamarin\Android</MonoAndroidToolsPath>
   <ReferenceAssemblyPaths>
-    <ReferenceAssemblyPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\</ReferenceAssemblyPath>
+    <ReferenceAssemblyPath>C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\ReferenceAssemblies\Microsoft\Framework\MonoAndroid\v1.0\</ReferenceAssemblyPath>
   </ReferenceAssemblyPaths>
   <TargetFrameworkVersion>v4.3</TargetFrameworkVersion>
-  <ZipAlignPath>C:\Users\Citec\AppData\Local\Android\sdk\build-tools\24.0.3</ZipAlignPath>
+  <ZipAlignPath>C:\Users\Citec\AppData\Local\Android\Sdk\build-tools\27.0.1</ZipAlignPath>
   <MonoAndroidIncludePath />
   <SupportedApiLevel>18</SupportedApiLevel>
   <AndroidSequencePointsMode>None</AndroidSequencePointsMode>

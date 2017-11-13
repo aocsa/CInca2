@@ -37,12 +37,12 @@ C:\Users\Citec\Documents\GitHub\CInca2\MLearning.Droid\bin\Debug\Xamarin.Android
 C:\Users\Citec\Documents\GitHub\CInca2\MLearning.Droid\bin\Debug\System.Data.Services.Client.dll
 C:\Users\Citec\Documents\GitHub\CInca2\MLearning.Droid\bin\Debug\WindowsBase.dll
 C:\Users\Citec\Documents\GitHub\CInca2\MLearning.Droid\bin\Debug\CincaMLearning.Core.pdb
+C:\Users\Citec\Documents\GitHub\CInca2\MLearning.Droid\bin\Debug\CincaMLearning.Core.dll.config
 C:\Users\Citec\Documents\GitHub\CInca2\MLearning.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
 C:\Users\Citec\Documents\GitHub\CInca2\MLearning.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
 C:\Users\Citec\Documents\GitHub\CInca2\MLearning.Droid\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Citec\Documents\GitHub\CInca2\MLearning.Droid\bin\Debug\System.Net.Http.Extensions.xml
 C:\Users\Citec\Documents\GitHub\CInca2\MLearning.Droid\bin\Debug\System.Net.Http.Primitives.xml
-C:\Users\Citec\Documents\GitHub\CInca2\MLearning.Droid\bin\Debug\System.Data.Services.Client.xml
 C:\Users\Citec\Documents\GitHub\CInca2\MLearning.Droid\bin\Debug\es\System.Data.Services.Client.resources.dll
 C:\Users\Citec\Documents\GitHub\CInca2\MLearning.Droid\bin\Debug\es\WindowsBase.resources.dll
 C:\Users\Citec\Documents\GitHub\CInca2\MLearning.Droid\obj\Debug\CInca.csprojResolveAssemblyReference.cache
@@ -112,6 +112,7 @@ C:\Users\Citec\Documents\GitHub\CInca2\MLearning.Droid\bin\Debug\System.Identity
 C:\Users\Citec\Documents\GitHub\CInca2\MLearning.Droid\bin\Debug\System.Net.dll.mdb
 C:\Users\Citec\Documents\GitHub\CInca2\MLearning.Droid\bin\Debug\System.Net.Http.dll.mdb
 C:\Users\Citec\Documents\GitHub\CInca2\MLearning.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Citec\Documents\GitHub\CInca2\MLearning.Droid\bin\Debug\System.Runtime.Serialization.Primitives.dll.mdb
 C:\Users\Citec\Documents\GitHub\CInca2\MLearning.Droid\bin\Debug\System.ServiceModel.dll.mdb
 C:\Users\Citec\Documents\GitHub\CInca2\MLearning.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
 C:\Users\Citec\Documents\GitHub\CInca2\MLearning.Droid\bin\Debug\System.Web.Services.dll.mdb
@@ -130,6 +131,7 @@ C:\Users\Citec\Documents\GitHub\CInca2\MLearning.Droid\obj\Debug\android\assets\
 C:\Users\Citec\Documents\GitHub\CInca2\MLearning.Droid\obj\Debug\android\assets\System.Net.dll.mdb
 C:\Users\Citec\Documents\GitHub\CInca2\MLearning.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
 C:\Users\Citec\Documents\GitHub\CInca2\MLearning.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Citec\Documents\GitHub\CInca2\MLearning.Droid\obj\Debug\android\assets\System.Runtime.Serialization.Primitives.dll.mdb
 C:\Users\Citec\Documents\GitHub\CInca2\MLearning.Droid\obj\Debug\android\assets\System.ServiceModel.dll.mdb
 C:\Users\Citec\Documents\GitHub\CInca2\MLearning.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
 C:\Users\Citec\Documents\GitHub\CInca2\MLearning.Droid\obj\Debug\android\assets\System.Web.Services.dll.mdb
